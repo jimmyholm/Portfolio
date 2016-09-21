@@ -1,0 +1,9 @@
+G:\VS13\Projects\TaskTimer\TaskTimer\bin\Release\TaskTimer.exe.config
+G:\VS13\Projects\TaskTimer\TaskTimer\bin\Release\TaskTimer.exe
+G:\VS13\Projects\TaskTimer\TaskTimer\bin\Release\TaskTimer.pdb
+G:\VS13\Projects\TaskTimer\TaskTimer\obj\Release\TaskTimer.csprojResolveAssemblyReference.cache
+G:\VS13\Projects\TaskTimer\TaskTimer\obj\Release\TaskTimer.Properties.Resources.resources
+G:\VS13\Projects\TaskTimer\TaskTimer\obj\Release\TaskTimer.TaskTimerForm.resources
+G:\VS13\Projects\TaskTimer\TaskTimer\obj\Release\TaskTimer.csproj.GenerateResource.Cache
+G:\VS13\Projects\TaskTimer\TaskTimer\obj\Release\TaskTimer.exe
+G:\VS13\Projects\TaskTimer\TaskTimer\obj\Release\TaskTimer.pdb
