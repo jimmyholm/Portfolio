@@ -1,0 +1,12 @@
+E:\VS15\Projects\Picross\Picross\bin\Release\Picross.exe.config
+E:\VS15\Projects\Picross\Picross\bin\Release\Picross.exe
+E:\VS15\Projects\Picross\Picross\bin\Release\Picross.pdb
+E:\VS15\Projects\Picross\Picross\obj\Release\Picross.AboutBox.resources
+E:\VS15\Projects\Picross\Picross\obj\Release\Picross.ColorSelection.resources
+E:\VS15\Projects\Picross\Picross\obj\Release\Picross.Form1.resources
+E:\VS15\Projects\Picross\Picross\obj\Release\Picross.PicrossDisplay.resources
+E:\VS15\Projects\Picross\Picross\obj\Release\Picross.PicrossGrid.resources
+E:\VS15\Projects\Picross\Picross\obj\Release\Picross.Properties.Resources.resources
+E:\VS15\Projects\Picross\Picross\obj\Release\Picross.csproj.GenerateResource.Cache
+E:\VS15\Projects\Picross\Picross\obj\Release\Picross.exe
+E:\VS15\Projects\Picross\Picross\obj\Release\Picross.pdb

@@ -1,0 +1,13 @@
+E:\VS15\Projects\Picross\Picross\bin\Debug\Picross.exe.config
+E:\VS15\Projects\Picross\Picross\bin\Debug\Picross.exe
+E:\VS15\Projects\Picross\Picross\bin\Debug\Picross.pdb
+E:\VS15\Projects\Picross\Picross\obj\Debug\Picross.csprojResolveAssemblyReference.cache
+E:\VS15\Projects\Picross\Picross\obj\Debug\Picross.AboutBox.resources
+E:\VS15\Projects\Picross\Picross\obj\Debug\Picross.ColorSelection.resources
+E:\VS15\Projects\Picross\Picross\obj\Debug\Picross.Form1.resources
+E:\VS15\Projects\Picross\Picross\obj\Debug\Picross.PicrossDisplay.resources
+E:\VS15\Projects\Picross\Picross\obj\Debug\Picross.PicrossGrid.resources
+E:\VS15\Projects\Picross\Picross\obj\Debug\Picross.Properties.Resources.resources
+E:\VS15\Projects\Picross\Picross\obj\Debug\Picross.csproj.GenerateResource.Cache
+E:\VS15\Projects\Picross\Picross\obj\Debug\Picross.exe
+E:\VS15\Projects\Picross\Picross\obj\Debug\Picross.pdb
